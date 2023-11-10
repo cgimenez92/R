@@ -1,0 +1,38 @@
+"","name","year","battle_number","attacker_king","defender_king","major_death","major_capture"
+"1","Battle of the Golden Tooth",298,1,"Joffrey/Tommen Baratheon","Robb Stark",1,0
+"2","Battle at the Mummer's Ford",298,2,"Joffrey/Tommen Baratheon","Robb Stark",1,0
+"3","Battle of Riverrun",298,3,"Joffrey/Tommen Baratheon","Robb Stark",0,1
+"4","Battle of the Green Fork",298,4,"Robb Stark","Joffrey/Tommen Baratheon",1,1
+"5","Battle of the Whispering Wood",298,5,"Robb Stark","Joffrey/Tommen Baratheon",1,1
+"6","Battle of the Camps",298,6,"Robb Stark","Joffrey/Tommen Baratheon",0,0
+"7","Sack of Darry",298,7,"Joffrey/Tommen Baratheon","Robb Stark",0,0
+"8","Battle of Moat Cailin",299,8,"Balon/Euron Greyjoy","Robb Stark",0,0
+"9","Battle of Deepwood Motte",299,9,"Balon/Euron Greyjoy","Robb Stark",0,0
+"10","Battle of the Stony Shore",299,10,"Balon/Euron Greyjoy","Robb Stark",0,0
+"11","Battle of Torrhen's Square",299,11,"Robb Stark","Balon/Euron Greyjoy",0,0
+"12","Battle of Winterfell",299,12,"Balon/Euron Greyjoy","Robb Stark",0,1
+"13","Sack of Torrhen's Square",299,13,"Balon/Euron Greyjoy","Balon/Euron Greyjoy",0,1
+"14","Sack of Winterfell",299,14,"Joffrey/Tommen Baratheon","Robb Stark",1,0
+"15","Battle of Oxcross",299,15,"Robb Stark","Joffrey/Tommen Baratheon",1,1
+"16","Siege of Storm's End",299,16,"Stannis Baratheon","Renly Baratheon",1,0
+"17","Battle of the Fords",299,17,"Joffrey/Tommen Baratheon","Robb Stark",0,0
+"18","Sack of Harrenhal",299,18,"Robb Stark","Joffrey/Tommen Baratheon",1,0
+"19","Battle of the Crag",299,19,"Robb Stark","Joffrey/Tommen Baratheon",0,0
+"20","Battle of the Blackwater",299,20,"Stannis Baratheon","Joffrey/Tommen Baratheon",1,1
+"21","Siege of Darry",299,21,"Robb Stark","Joffrey/Tommen Baratheon",0,0
+"22","Battle of Duskendale",299,22,"Robb Stark","Joffrey/Tommen Baratheon",1,0
+"23","Battle of the Burning Septry",299,23,"","",0,0
+"24","Battle of the Ruby Ford",299,24,"Joffrey/Tommen Baratheon","Robb Stark",0,0
+"25","Retaking of Harrenhal",299,25,"Joffrey/Tommen Baratheon","",1,0
+"26","The Red Wedding",299,26,"Joffrey/Tommen Baratheon","Robb Stark",1,1
+"27","Siege of Seagard",299,27,"Robb Stark","Joffrey/Tommen Baratheon",0,1
+"28","Battle of Castle Black",300,28,"Stannis Baratheon","Mance Rayder",1,1
+"29","Fall of Moat Cailin",300,29,"Joffrey/Tommen Baratheon","Balon/Euron Greyjoy",0,0
+"30","Sack of Saltpans",300,30,"","",0,0
+"31","Retaking of Deepwood Motte",300,31,"Stannis Baratheon","Balon/Euron Greyjoy",0,0
+"32","Battle of the Shield Islands",300,32,"Balon/Euron Greyjoy","Joffrey/Tommen Baratheon",0,0
+"33","Invasion of Ryamsport, Vinetown, and Starfish Harbor",300,33,"Balon/Euron Greyjoy","Joffrey/Tommen Baratheon",0,0
+"34","Second Seige of Storm's End",300,34,"Joffrey/Tommen Baratheon","Stannis Baratheon",0,0
+"35","Siege of Dragonstone",300,35,"Joffrey/Tommen Baratheon","Stannis Baratheon",0,0
+"36","Siege of Riverrun",300,36,"Joffrey/Tommen Baratheon","Robb Stark",0,0
+"37","Siege of Raventree",300,37,"Joffrey/Tommen Baratheon","Robb Stark",0,1

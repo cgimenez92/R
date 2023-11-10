@@ -1,0 +1,11 @@
+"","opponent","goals","goals_opponents","bool_penalties","penalties","penalties_opponents"
+"1","Cruz Azul",2,1,FALSE,0,0
+"2","Atlanta",4,0,FALSE,0,0
+"3","Orlando",3,1,FALSE,0,0
+"4","Dallas",4,4,TRUE,5,3
+"5","Charlotte",4,0,FALSE,0,0
+"6","Philadelphia",4,1,FALSE,0,0
+"7","Nashville",1,1,TRUE,10,9
+"8","Cincinnati",3,3,TRUE,5,4
+"9","New York",2,0,FALSE,0,0
+"10","Nashville",0,0,FALSE,0,0

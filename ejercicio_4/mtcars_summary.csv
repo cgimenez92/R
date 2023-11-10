@@ -1,0 +1,33 @@
+"","cyl","hp","wt","vs"
+"Mazda RX4",6,110,2.62,0
+"Mazda RX4 Wag",6,110,2.875,0
+"Datsun 710",4,93,2.32,1
+"Hornet 4 Drive",6,110,3.215,1
+"Hornet Sportabout",8,175,3.44,0
+"Valiant",6,105,3.46,1
+"Duster 360",8,245,3.57,0
+"Merc 240D",4,62,3.19,1
+"Merc 230",4,95,3.15,1
+"Merc 280",6,123,3.44,1
+"Merc 280C",6,123,3.44,1
+"Merc 450SE",8,180,4.07,0
+"Merc 450SL",8,180,3.73,0
+"Merc 450SLC",8,180,3.78,0
+"Cadillac Fleetwood",8,205,5.25,0
+"Lincoln Continental",8,215,5.424,0
+"Chrysler Imperial",8,230,5.345,0
+"Fiat 128",4,66,2.2,1
+"Honda Civic",4,52,1.615,1
+"Toyota Corolla",4,65,1.835,1
+"Toyota Corona",4,97,2.465,1
+"Dodge Challenger",8,150,3.52,0
+"AMC Javelin",8,150,3.435,0
+"Camaro Z28",8,245,3.84,0
+"Pontiac Firebird",8,175,3.845,0
+"Fiat X1-9",4,66,1.935,1
+"Porsche 914-2",4,91,2.14,0
+"Lotus Europa",4,113,1.513,1
+"Ford Pantera L",8,264,3.17,0
+"Ferrari Dino",6,175,2.77,0
+"Maserati Bora",8,335,3.57,0
+"Volvo 142E",4,109,2.78,1
